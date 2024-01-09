@@ -16,7 +16,4 @@
 - 💬 Got Questions? - Ask me about anything!
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yemiOdetola&layout=compact&theme=radical)](https://github.com/yemiOdetola)
-
-
 📫 You can reach me here: yemiotola@gmail.com
