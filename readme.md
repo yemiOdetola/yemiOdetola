@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">I'm Odetola Azeez</h1>
+  <h1 align="center">Hi!, I'm Odetola Azeez</h1>
   <p align="center">Frontend + Mobile Engineer</p>
 </p>
 
@@ -12,7 +12,7 @@
 
 
 - 🔭 Bringing ideas to life with Javascript
-- ⭐️ Striving to level up my backend skills. I'm open to collaborate on open source projects and interesting ideas.
+- ⭐️ Striving to level up my backend skills. I'm open to collaborating on open-source projects and interesting ideas.
 - 💬 Got Questions? - Ask me about anything!
 
 
