@@ -11,8 +11,8 @@
 </p>
 
 
-- 🔭 Bringing ideas to life with Javascript
-- ⭐️ Striving to level up my backend skills. I'm open to collaborating on open-source projects and interesting ideas.
+- 🔭 Bringing ideas to life
+- ⭐️ I'm open to collaborating on open-source projects and interesting ideas.
 - 💬 Got Questions? - Ask me about anything!
 
 
