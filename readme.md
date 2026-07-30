@@ -8,9 +8,3 @@
   <a href="https://oodetola.vercel.app/projects">Projects</a> |
   <a href="https://linkedin.com/in/yemiodetola">LinkedIn</a> |
 </p>
-
-
-- 🔭 Bringing ideas to life
-
-
-📫 Email: yemiotola@gmail.com
